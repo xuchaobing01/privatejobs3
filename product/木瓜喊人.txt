@@ -1,0 +1,6 @@
+产品原型地址：
+用户端：https://v2.modao.cc/app/9c19f900fba1a929dae0c5dc0c19a970eb2b3fde  密码：123456  
+工人端：https://pro.modao.cc/app/983d0316c4f59e145141c88f2420aed992ecf609  密码：123456
+经销商后台：https://pro.modao.cc/app/86e7d211793b85c6795fa6ccf66cf92aec7dbb16  密码：123456
+平台后台：https://pro.modao.cc/app/3ddf3c202a90218c27865f922e28b71182534e67 密码：123456
+平台及经销商后台（结算部分）：https://pro.modao.cc/app/AQlmOCDb9CvaOyzySXs0lRs3VxUQWtL  密码：123456
