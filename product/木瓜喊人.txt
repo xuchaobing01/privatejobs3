@@ -4,3 +4,7 @@
 经销商后台：https://pro.modao.cc/app/86e7d211793b85c6795fa6ccf66cf92aec7dbb16  密码：123456
 平台后台：https://pro.modao.cc/app/3ddf3c202a90218c27865f922e28b71182534e67 密码：123456
 平台及经销商后台（结算部分）：https://pro.modao.cc/app/AQlmOCDb9CvaOyzySXs0lRs3VxUQWtL  密码：123456
+
+时间：10月18号要上线
+提前：7+1
+功能：经销商后台和包括经销商结算部分。在最后那个链接中
