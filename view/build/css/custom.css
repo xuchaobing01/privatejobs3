@@ -1,0 +1,16 @@
+.kit-layout-admin .layui-header{background-color:#337AB7;}
+.layui-layout-admin .layui-logo{color:#FFFFFF;font-size:28px;left:-5px;}
+.layui-layout-admin .kit-logo-des{
+    position: absolute;
+    left: 170px;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-size: 18px;
+    text-align: left;
+}
+.kit-nav{font-size:14px;}
+.layui-nav .layui-nav-item a{padding:0px 25px;}
+.layui-nav .layui-nav-item a:haver{color:red;!important;}
